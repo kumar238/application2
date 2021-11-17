@@ -32,7 +32,7 @@ namespace application2
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello World!");
+                    await context.Response.WriteAsync("Hello World!");sa,mf,mdclklhkhkjkj\\  [prop-kpojkp[]]
 
                 });
             });
